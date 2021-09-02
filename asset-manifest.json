@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactfootballproject/static/css/main.3e55ee85.chunk.css",
-    "main.js": "/reactfootballproject/static/js/main.c230f9a0.chunk.js",
-    "main.js.map": "/reactfootballproject/static/js/main.c230f9a0.chunk.js.map",
+    "main.css": "/reactfootballproject/static/css/main.2c5480b0.chunk.css",
+    "main.js": "/reactfootballproject/static/js/main.503c7e6e.chunk.js",
+    "main.js.map": "/reactfootballproject/static/js/main.503c7e6e.chunk.js.map",
     "runtime-main.js": "/reactfootballproject/static/js/runtime-main.493f33ed.js",
     "runtime-main.js.map": "/reactfootballproject/static/js/runtime-main.493f33ed.js.map",
     "static/js/2.722bda1b.chunk.js": "/reactfootballproject/static/js/2.722bda1b.chunk.js",
@@ -10,15 +10,15 @@
     "static/js/3.99ba339e.chunk.js": "/reactfootballproject/static/js/3.99ba339e.chunk.js",
     "static/js/3.99ba339e.chunk.js.map": "/reactfootballproject/static/js/3.99ba339e.chunk.js.map",
     "index.html": "/reactfootballproject/index.html",
-    "static/css/main.3e55ee85.chunk.css.map": "/reactfootballproject/static/css/main.3e55ee85.chunk.css.map",
+    "static/css/main.2c5480b0.chunk.css.map": "/reactfootballproject/static/css/main.2c5480b0.chunk.css.map",
     "static/js/2.722bda1b.chunk.js.LICENSE.txt": "/reactfootballproject/static/js/2.722bda1b.chunk.js.LICENSE.txt",
-    "static/media/Header.css": "/reactfootballproject/static/media/header-bg.167eefc9.jpg",
+    "static/media/Header.scss": "/reactfootballproject/static/media/header-bg.167eefc9.jpg",
     "static/media/logo-reactfootball.3d6bd756.png": "/reactfootballproject/static/media/logo-reactfootball.3d6bd756.png"
   },
   "entrypoints": [
     "static/js/runtime-main.493f33ed.js",
     "static/js/2.722bda1b.chunk.js",
-    "static/css/main.3e55ee85.chunk.css",
-    "static/js/main.c230f9a0.chunk.js"
+    "static/css/main.2c5480b0.chunk.css",
+    "static/js/main.503c7e6e.chunk.js"
   ]
 }
