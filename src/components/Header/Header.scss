@@ -36,3 +36,13 @@
     transform: rotate(360deg) ;
   }
 }
+
+$breakpoint-tablet: 768px;
+@media (min-width: $breakpoint-tablet) {
+  .main-header-title h1 {
+    font-size: 40px;
+  }
+  .main-header-title h2 {
+    font-size: 16px;
+  }
+}

@@ -1,7 +1,7 @@
 import { Col, Row } from 'react-bootstrap';
 import logo from '../../assets/img/logo-reactfootball.png';
 
-import './Header.css';
+import './Header.scss';
 import '../../assets/css/bootstrap/bootstrap-grid.css';
 
 function Header() {
