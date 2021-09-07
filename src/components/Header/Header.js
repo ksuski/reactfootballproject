@@ -10,10 +10,10 @@ function Header() {
       <header className="main-header d-flex justify-content-center align-items-center">
         
           <Row className="d-flex justify-content-center">
-            <Col xs md lg={3} className="d-flex justify-content-center">
+            <Col xs md={12} lg={3} className="d-flex justify-content-center">
             <img src={logo} className="App-logo" alt="logo" />
             </Col>
-            <Col xs md lg={9} className="d-flex justify-content-center align-items-center main-header-title flex-column">
+            <Col xs md={12} lg={9} className="d-flex justify-content-center align-items-center main-header-title flex-column">
               <h1>
                  ReactFootball
               </h1>
