@@ -40,7 +40,7 @@ switch (name) {
     break;
 }
   return (
-    <Col xs={12} md={6} lg={4} className='d-flex justify-content-center align-items-center flex-column p-3 single-competition'>
+    <Col xs={12} md={6} lg={4} className='d-flex justify-content-center align-items-center flex-column p-md-3 single-competition'>
         <img src={logoSrc} alt={name}/>
     </Col>
   );
