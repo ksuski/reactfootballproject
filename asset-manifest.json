@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactfootballproject/static/css/main.c5c25e54.chunk.css",
-    "main.js": "/reactfootballproject/static/js/main.914d7f2b.chunk.js",
-    "main.js.map": "/reactfootballproject/static/js/main.914d7f2b.chunk.js.map",
+    "main.css": "/reactfootballproject/static/css/main.9f310122.chunk.css",
+    "main.js": "/reactfootballproject/static/js/main.3cc4e803.chunk.js",
+    "main.js.map": "/reactfootballproject/static/js/main.3cc4e803.chunk.js.map",
     "runtime-main.js": "/reactfootballproject/static/js/runtime-main.24da39a7.js",
     "runtime-main.js.map": "/reactfootballproject/static/js/runtime-main.24da39a7.js.map",
     "static/js/2.fe840234.chunk.js": "/reactfootballproject/static/js/2.fe840234.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.41688c45.chunk.js": "/reactfootballproject/static/js/3.41688c45.chunk.js",
     "static/js/3.41688c45.chunk.js.map": "/reactfootballproject/static/js/3.41688c45.chunk.js.map",
     "index.html": "/reactfootballproject/index.html",
-    "static/css/main.c5c25e54.chunk.css.map": "/reactfootballproject/static/css/main.c5c25e54.chunk.css.map",
+    "static/css/main.9f310122.chunk.css.map": "/reactfootballproject/static/css/main.9f310122.chunk.css.map",
     "static/js/2.fe840234.chunk.js.LICENSE.txt": "/reactfootballproject/static/js/2.fe840234.chunk.js.LICENSE.txt",
     "static/media/Bundesliga.179ed71c.png": "/reactfootballproject/static/media/Bundesliga.179ed71c.png",
     "static/media/Ligue 1.71c72fc6.png": "/reactfootballproject/static/media/Ligue 1.71c72fc6.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.24da39a7.js",
     "static/js/2.fe840234.chunk.js",
-    "static/css/main.c5c25e54.chunk.css",
-    "static/js/main.914d7f2b.chunk.js"
+    "static/css/main.9f310122.chunk.css",
+    "static/js/main.3cc4e803.chunk.js"
   ]
 }
