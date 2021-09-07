@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/reactfootballproject/static/css/main.9f310122.chunk.css",
-    "main.js": "/reactfootballproject/static/js/main.3cc4e803.chunk.js",
-    "main.js.map": "/reactfootballproject/static/js/main.3cc4e803.chunk.js.map",
-    "runtime-main.js": "/reactfootballproject/static/js/runtime-main.24da39a7.js",
-    "runtime-main.js.map": "/reactfootballproject/static/js/runtime-main.24da39a7.js.map",
-    "static/js/2.fe840234.chunk.js": "/reactfootballproject/static/js/2.fe840234.chunk.js",
-    "static/js/2.fe840234.chunk.js.map": "/reactfootballproject/static/js/2.fe840234.chunk.js.map",
-    "static/js/3.41688c45.chunk.js": "/reactfootballproject/static/js/3.41688c45.chunk.js",
-    "static/js/3.41688c45.chunk.js.map": "/reactfootballproject/static/js/3.41688c45.chunk.js.map",
+    "main.css": "/reactfootballproject/static/css/main.3bd1d7ba.chunk.css",
+    "main.js": "/reactfootballproject/static/js/main.0b7f864b.chunk.js",
+    "main.js.map": "/reactfootballproject/static/js/main.0b7f864b.chunk.js.map",
+    "runtime-main.js": "/reactfootballproject/static/js/runtime-main.f53ef0c0.js",
+    "runtime-main.js.map": "/reactfootballproject/static/js/runtime-main.f53ef0c0.js.map",
+    "static/js/2.3f93bab0.chunk.js": "/reactfootballproject/static/js/2.3f93bab0.chunk.js",
+    "static/js/2.3f93bab0.chunk.js.map": "/reactfootballproject/static/js/2.3f93bab0.chunk.js.map",
+    "static/js/3.e309d3be.chunk.js": "/reactfootballproject/static/js/3.e309d3be.chunk.js",
+    "static/js/3.e309d3be.chunk.js.map": "/reactfootballproject/static/js/3.e309d3be.chunk.js.map",
     "index.html": "/reactfootballproject/index.html",
-    "static/css/main.9f310122.chunk.css.map": "/reactfootballproject/static/css/main.9f310122.chunk.css.map",
-    "static/js/2.fe840234.chunk.js.LICENSE.txt": "/reactfootballproject/static/js/2.fe840234.chunk.js.LICENSE.txt",
+    "static/css/main.3bd1d7ba.chunk.css.map": "/reactfootballproject/static/css/main.3bd1d7ba.chunk.css.map",
+    "static/js/2.3f93bab0.chunk.js.LICENSE.txt": "/reactfootballproject/static/js/2.3f93bab0.chunk.js.LICENSE.txt",
     "static/media/Bundesliga.179ed71c.png": "/reactfootballproject/static/media/Bundesliga.179ed71c.png",
     "static/media/Ligue 1.71c72fc6.png": "/reactfootballproject/static/media/Ligue 1.71c72fc6.png",
     "static/media/Premier League.b460b561.png": "/reactfootballproject/static/media/Premier League.b460b561.png",
     "static/media/Primeira Liga.e93c5574.png": "/reactfootballproject/static/media/Primeira Liga.e93c5574.png",
     "static/media/Primera Division.e5e90ccc.png": "/reactfootballproject/static/media/Primera Division.e5e90ccc.png",
     "static/media/Serie A.50c8fae5.png": "/reactfootballproject/static/media/Serie A.50c8fae5.png",
-    "static/media/FeaturedTeams.scss": "/reactfootballproject/static/media/header-bg.167eefc9.jpg",
+    "static/media/Header.scss": "/reactfootballproject/static/media/header-bg.167eefc9.jpg",
     "static/media/logo-reactfootball.3d6bd756.png": "/reactfootballproject/static/media/logo-reactfootball.3d6bd756.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.24da39a7.js",
-    "static/js/2.fe840234.chunk.js",
-    "static/css/main.9f310122.chunk.css",
-    "static/js/main.3cc4e803.chunk.js"
+    "static/js/runtime-main.f53ef0c0.js",
+    "static/js/2.3f93bab0.chunk.js",
+    "static/css/main.3bd1d7ba.chunk.css",
+    "static/js/main.0b7f864b.chunk.js"
   ]
 }
