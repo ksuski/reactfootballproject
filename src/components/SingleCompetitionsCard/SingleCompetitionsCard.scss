@@ -2,6 +2,6 @@
   transition: all 400ms ease-in-out;
   &:hover {
   transition: all 400ms ease-in-out;
-  -webkit-filter: drop-shadow(12px 12px 25px rgba(0,0,0,0.5));
+  filter: drop-shadow(12px 12px 25px rgba(0,0,0,0.5));
   }
 }
